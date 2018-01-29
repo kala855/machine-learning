@@ -44,7 +44,7 @@ This repo contains all the lectures of Machine Learning Class at Universidad Tec
 * Anomaly Detection
     * Density Estimation
     * Building an Anomaly Detection System
-    * Multivariate Gaussian Distribution 
+    * Multivariate Gaussian Distribution
 * Recommender Systems
     * Predicting Movie Ratings
     * Collaborative Filtering
