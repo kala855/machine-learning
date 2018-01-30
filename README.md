@@ -4,7 +4,7 @@ This repo contains all the lectures of Machine Learning Class at Universidad Tec
 
 ## Syllabus
 * Introduction
-    * What is Machine Learning ?
+    * [What is Machine Learning ?](https://sirius.utp.edu.co/gitlab/computer-science-courses/machine-learning/tree/master/introduction)
     * Introduction to Supervised Learning
     * Introduction to Un-Supervised Learning
     * Linear Regression with one variable
