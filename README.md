@@ -55,3 +55,6 @@ This repo contains all the lectures of Machine Learning Class at Universidad Tec
         * Online Learning
         * Map Reduce and Data Parallelism
 * Application Example
+
+
+### Note: This course is based on [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning).
