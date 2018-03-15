@@ -3,15 +3,16 @@
 This repo contains all the lectures of Machine Learning Class at Universidad Tecnológica de Pereira.
 
 ## Syllabus
-* [Introduction](https://github.com/kala855/machine-learning/tree/master/introduction)
+* [Introduction](introduction)
     * What is Machine Learning ?
     * Introduction to Supervised Learning
     * Introduction to Un-Supervised Learning
-    * Linear Regression with one variable
-    * Linear Algebra Review
+* Linear Regression with one variable
+    * Definition
+    * Implementation
 * Linear Regression with Multiple Variables
     * Multivariate Linear Regression
-    * Computing Parameters Analytically
+    * Normal Equation
 * Logistic Regression
     * Classification and Representation
     * Logistic Regression Model
