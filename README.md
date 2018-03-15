@@ -15,7 +15,7 @@ This repo contains all the lectures of Machine Learning Class at Universidad Tec
 * [Linear Regression with Multiple
   Variables](introduction/linearRegression)
     * [Multivariate Linear Regression](introduction/linearRegression/linearRegressionMultipleVariables.ipynb)
-    * [Normal Equation]()
+    * [Normal Equation](introduction/linearRegression/normalEquation.ipynb)
 * Logistic Regression
     * Classification and Representation
     * Logistic Regression Model
