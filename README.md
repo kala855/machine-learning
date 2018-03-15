@@ -3,16 +3,18 @@
 This repo contains all the lectures of Machine Learning Class at Universidad Tecnológica de Pereira.
 
 ## Syllabus
-* [Introduction](introduction)
+* [Introduction](introduction/introNotebook)
     * What is Machine Learning ?
     * Introduction to Supervised Learning
     * Introduction to Un-Supervised Learning
-* Linear Regression with one variable
-    * Definition
-    * Implementation
-* Linear Regression with Multiple Variables
-    * Multivariate Linear Regression
-    * Normal Equation
+* [Linear Regression with one
+  variable](introduction/linearRegression)
+    * [Definition](introduction/linearRegression/linearRegressionOneVariable.ipynb)
+    * [Implementation](introduction/linearRegression/linearRegressionImplementation.ipynb)
+* [Linear Regression with Multiple
+  Variables](introduction/linearRegression)
+    * [Multivariate Linear Regression](introduction/linearRegression/linearRegressionMultipleVariables.ipynb)
+    * [Normal Equation]()
 * Logistic Regression
     * Classification and Representation
     * Logistic Regression Model
