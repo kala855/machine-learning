@@ -3,10 +3,11 @@
 This repo contains all the lectures of Machine Learning Class at Universidad Tecnológica de Pereira.
 
 ## Syllabus
+
 * [Introduction](introduction/introNotebook)
-    * What is Machine Learning ?
-    * Introduction to Supervised Learning
-    * Introduction to Un-Supervised Learning
+    * [What is Machine Learning ?](introduction/introNotebook/introduction.ipynb)
+    * [Introduction to Supervised Learning](introduction/introNotebook/introduction.ipynb)
+    * [Introduction to Un-Supervised Learning](introduction/introNotebook/introduction.ipynb)
 * [Linear Regression with one
   variable](introduction/linearRegression)
     * [Definition](introduction/linearRegression/linearRegressionOneVariable.ipynb)
