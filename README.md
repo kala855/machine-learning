@@ -19,9 +19,9 @@ This repo contains all the lectures of Machine Learning Class at Universidad Tec
     * [Multivariate Linear Regression Implementation](linearRegression/linearRegressionMultiVarImplement.ipynb)
     * [Normal Equation Implementation](linearRegression/normalEquationImp.ipynb)
 * [Logistic Regression](logisticRegression)
-    * Classification and Representation
-    * Logistic Regression Model
-    * MultiClass Classification
+    * [Classification and Representation](logisticRegression/logisticRegression.ipynb)
+    * [Logistic Regression Model](logisticRegression/logisticRegression.ipynb)
+    * [MultiClass Classification](logisticRegression/logisticRegression.ipynb)
 * Neural Networks: Representation
     *  Motivations
     *  Neural Networks
